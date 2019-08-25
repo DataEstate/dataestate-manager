@@ -1,5 +1,5 @@
 # Data Estate Manager
-v0.
+v0.1.2
 
 Project for managing Estates and Assets. This is a React project designed to work as a component to be integrated with PHP/Installation .NET core based applications. This project is a work-in-progress and will be integrated with the __Data Estate Core__ .NET Core app. Data Estate developers should get access tot he active Bitbucket repo. 
 
